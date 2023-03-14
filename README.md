@@ -8,4 +8,4 @@ Autoclicker for farming stat points, not much else to it. Probably works on any 
 Force hold the "Combat" tool even if you die, change to whatever you want. Not really patchable.
 
 ### [Loop Teleport to Mob](/Scripts/looptp.lua) <sub><sup>`v1.0.0` *(Updated: 12/03/2023)*</sup></sub>
-Teleport to whatever mob you want every 5 seconds, really good to use with [Loop Teleport to Mob](/Scripts/looptp.lua) and [Autoclicker](/Scripts/autoclicker.lua). Can also be used to teleport to that level 1200 boss, which would farm defense like crazy. Currently working as of *12/03/2023*
+Teleport to whatever mob you want every 5 seconds, really good to use with [Force Combat](/Scripts/forcecombat.lua) and [Autoclicker](/Scripts/autoclicker.lua). Can also be used to teleport to that level 1200 boss, which would farm defense like crazy. Currently working as of *12/03/2023*
